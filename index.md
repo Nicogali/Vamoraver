@@ -1,25 +1,14 @@
----
-layout: default
----
+# ¿Funciona esto o no?
 
-# Quick Start
-
-```js
-var expr = new Expression("x");
-expr = expr.subtract(3);
-expr = expr.add("x");
-
-console.log(expr.toString());
-```
 
 ```
-2x - 3
+Si estás aquí es porque te estás peleando con Moodle
 ```
 
-```js
-var eq = new Equation(expr, 4);
+O, al menos, quieres
+ preparar preguntas con aleatoriedad
+en la plataforma Moodle.
 
-console.log(eq.toString());
 ```
 
 ```
